@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD53BA22-326F-4743-B3C8-C9011850FB90</string>
+	<key>IDESourceControlProjectName</key>
+	<string>objective c day 5 code</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>877E13B9-64F0-4B97-8B0A-356A4236DC9F</key>
+		<string>https://github.com/raviteja642581/Exercises.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>objective c day 5 code/objective c day 5 code.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>877E13B9-64F0-4B97-8B0A-356A4236DC9F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/raviteja642581/Exercises.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>877E13B9-64F0-4B97-8B0A-356A4236DC9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>877E13B9-64F0-4B97-8B0A-356A4236DC9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Exercises</string>
+		</dict>
+	</array>
+</dict>
+</plist>
